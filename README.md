@@ -22,7 +22,6 @@ If these are not installed install the latest version of node.
   
 ## Step 2. Create and Launch the React project
 
-In your terminal, make a directory for your projects, and change directory to it. I like to keep my files in a directory named `ctp` under my home directory.
 
 ```bash
 cd ~
